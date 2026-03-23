@@ -31,6 +31,10 @@ and if you can get
 
 <img width="2258" height="193" alt="image" src="https://github.com/user-attachments/assets/a1be15fb-8e4e-4776-87b9-750ec9be6753" />
 
+if get error
+<img width="1072" height="1523" alt="image" src="https://github.com/user-attachments/assets/d7b9b6bd-6785-4a54-8147-77c145c48921" />
+
+use 
 
 feel  good to use  `multicodex-proxy`
 
